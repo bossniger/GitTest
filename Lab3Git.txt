@@ -1,4 +1,9 @@
 ∆па
+<<<<<<< HEAD
 dfsd
 fdfs
 dadaya
+=======
+dfsdd
+dfdsgadg
+>>>>>>> first_branch
